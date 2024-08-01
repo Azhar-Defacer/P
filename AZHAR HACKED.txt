@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>HACKED BY PEMALANG Security</title>
+    <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgY9NTBTlW647ra0Hzw8Htzuna9pflf6NeA&s" type="image/x-icon">
+    <meta name="description" content="#GarudaSecurity">
+    <style>
+        /* latin-ext */
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/oxygen/v15/2sDfZG1Wl4LcnbuKgE0mV0Q.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/oxygen/v15/2sDfZG1Wl4LcnbuKjk0m.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+    </style>
+    <style>
+        html {
+            background-color: black;
+            color: #fff;
+        }
+        h2 {
+            font-family: "Bold 700 Italic", sans-serif;
+            color: red;
+        }
+        h3, h4 {
+            font-family: "Oxygen", serif;
+            color: white;
+        }
+        a {
+            color: white;
+            text-decoration: none;
+        }
+        ::selection {
+            color: white;
+            background: #000;
+        }
+    </style>
+</head>
+<body>
+    <table width="100%" height="100%">
+        <tbody><tr>
+            <td align="center">
+                <img alt="#FUCKZIONIS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgY9NTBTlW647ra0Hzw8Htzuna9pflf6NeA&s" width="250px">
+                <h2>HACKED BY PEMALANG Security</h2>
+                <h4>Pemalang Security  Was Here⚜️ <br><br> message
+                    <br>Situs ini telah diretas oleh kami, karena gabut
+                    <br>Wong Pemalang Ikhlas<br>#IndonesiaNegriKu.</h4>
+                <audio controls="" src="https://advancedglobalstaffing.net/AUD-20240326-WA0033.mp3" __idm_id__="409601"></audio>
+                <h4><a href="https://github.com/palahsu/DDoS-Ripper">- <font color="red">Sorry</font></a></h4>
+                <h3>- <font color="red">Thanks to</font> -<br>AZHAR SUKA EPEP</h3>
+            </td>
+        </tr>
+    </tbody></table>
+
+</body></html>
